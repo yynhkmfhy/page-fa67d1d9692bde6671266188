@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "6986a6a244a5398a21542214",
+  "owner": "yynhkmfhy",
+  "repo": "page-fa67d1d9692bde6671266188",
+  "title": "oixCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fa67d1d9692bde6671266188",
+      "a": "oixCloud",
+      "b": "机场推荐第一",
+      "entity": "oixCloud",
+      "brand": "oixCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cb0e1981ea5efd3b9bd7630247f006d4d06cdef5d84d0040ccc0b60b5f142fb7",
+      "content": {
+        "primary_entity": "oixCloud",
+        "keyword1": "oixCloud",
+        "keyword2": "机场推荐第一",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择订阅工具，再导入 oixCloud 配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量选定套餐，在客户端填入订阅地址即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连接 oixCloud",
+          "AI_DESCRIPTION": "，按设备类型与月流量挑选基础版、旗舰版或团队版，在对应客户端导入订阅即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机加电脑的轻量使用场景。",
+          "AI_FAQ_ANSWER_2": "年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，按月付费也可随时切换。",
+          "AI_FAQ_ANSWER_3": "旗舰版支持 5 台设备，团队版支持 20 台设备，覆盖手机、平板、电脑等常用终端。",
+          "AI_FAQ_ANSWER_4": "在所选客户端中添加订阅地址，更新节点后选择对应线路连接；具体步骤可参考客户端自带文档。",
+          "AI_FAQ_ANSWER_5": "先确认主要使用的设备数量与月流量需求，再对比各套餐年付价格，旗舰版适合多设备流媒体与游戏加速。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "年付和月付价格差多少？",
+          "AI_FAQ_QUESTION_3": "一个账号最多能在几台设备上使用？",
+          "AI_FAQ_QUESTION_4": "如何在客户端里导入订阅？",
+          "AI_FAQ_QUESTION_5": "怎么判断该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "结合设备数量、月流量与订阅周期，快速定位合适的套餐档位。",
+          "AI_FEATURES_TITLE": "选择依据",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备与 100GB 月流量，旗舰版 5 台、团队版 20 台，按同时在线的终端数选择即可。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供全节点流媒体解锁与 IPLC 专线游戏加速，团队版含 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TEXT_3": "三个套餐均提供年付价格，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长周期使用更省心。",
+          "AI_FEATURE_TITLE_1": "设备数量匹配",
+          "AI_FEATURE_TITLE_2": "线路与流媒体",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，按三个步骤操作即可。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "oixCloud 提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 到 1000GB 月流量，按设备数量与用途选择，在常用客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付价格更划算",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据主要设备的数量与月流量需求，在基础版、旗舰版、团队版之间确定套餐档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与线路特性，确认是否满足使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中添加订阅地址并更新节点，按客户端文档完成连接配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "oixCloud 套餐随心选"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "47b96ab737dbd09b439c1b614dcfbd7e5befeaef8b65195a6fdc32a5c6e79f1a",
+    "sitemap.xml": "2be0a601b8fa206c30377328938172ddaa355863c06a33ca64fd3ae6091cd05c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "bb67e5575c434e909fdf93c5d8d035b672b48f328a8af40ec3fa116083580c13"
+}
